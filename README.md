@@ -7,5 +7,5 @@ you can also share the quote on your twitter by clicking on the twitter icon but
 
 #Interface  //click on the image to see live quotes app
 
-<a href="https://aashutoshhub.github.io/Quotes_App/">![image](https://user-images.githubusercontent.com/83817233/219101084-bc5d1040-527e-4880-9d79-57886fbd25a5.png)</a>
+<a href="https://aashutoshhub.github.io/Quotes_App/">![image](https://user-images.githubusercontent.com/83817233/219108617-8a539266-cfbc-46d0-87fb-4c5f74bf7712.png)</a>
 
